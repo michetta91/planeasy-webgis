@@ -62,3 +62,26 @@ For feedback, collaborations, or questions:
 - 🌐 Dashboard: [https://planeasy-webgis.web.app/](https://planeasy-webgis.web.app/)  
 
 ---
+
+## 📊 Examples of Use
+
+PlanEasy has been successfully applied in multiple projects. Here are some examples:
+
+- **Public Transport Demand Estimation for Large Events**  
+  Using open data (tourist accommodations, attractions, GTFS), PlanEasy was used to forecast additional public transport demand during the upcoming Jubilee event in Rome.  
+  👉 [Demo Dashboard / Repo Link](#)
+
+- **Road Safety Analysis**  
+  Interactive visualization and analysis of traffic injuries in Rome, with filtering by severity and type, supporting risk assessment and policy prioritization.  
+  👉 [Demo Dashboard / Repo Link](#)
+
+- **Accessibility Studies**  
+  Evaluation of accessibility to schools and services by public transport, with spatial analysis of opportunities and travel times.  
+  👉 [Demo Dashboard / Repo Link](#)
+
+- **Multilingual Surveys**  
+  Development of web-based surveys to collect transport behavior and perception data (e.g., perceived safety in shared mobility).  
+  👉 [Demo Dashboard / Repo Link](#)
+
+---
+
