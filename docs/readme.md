@@ -85,3 +85,6 @@ PlanEasy has been successfully applied in multiple projects. Here are some examp
 
 ---
 
+- [Email Hashing](user-data/email-hashing.md)
+- [Data Collection](user-data/data-collection.md)
+- [Privacy Easy](user-data/privacy-easy.md)
