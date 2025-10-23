@@ -41,7 +41,7 @@ It ensures that even if two participants use the same email, their hash values d
 
 - **Pseudonymization**: The hash is a random-looking code that cannot be reversed to the original address.  
 - **Data minimization**: Only the hash is stored; no identifiable fields remain.  
-- **Purpose limitation**: The code is used exclusively for research data linkage within theBIKEnet and related scientific studies.  
+- **Purpose limitation**: The code is used exclusively for research data linkage within scientific studies.  
 - **Security**: All transmission and storage are encrypted (HTTPS / Firestore encryption at rest).
 
 ---
@@ -52,7 +52,7 @@ This process follows the principles of:
 - [GDPR, Article 89 – Processing for scientific research purposes](https://gdpr.eu/article-89-processing-for-scientific-research-purposes/)
 - [FAIR data standards](https://www.go-fair.org/fair-principles/)
 
-It ensures that participation in theBIKEnet and planeasy-webgis surveys is **ethical, secure, and scientifically valid**.
+It ensures that participation in planeasy-webgis surveys is **ethical, secure, and scientifically valid**.
 
 ---
 
